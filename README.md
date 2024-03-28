@@ -8,7 +8,8 @@ Recently graduated from Le Wagon's intensive coding bootcamp where I built a com
 
 ### Snapshot
 
-👷🏻 I'm currently working on [Collabradors](https://www.collabradors.co.uk), [What Matters](https://www.dwmatters.com) and my new [portfolio](https://www.seandonnelly.co.uk).
+👷🏻 I'm currently working on [Collabradors](https://www.collabradors.co.uk), [What Matters](https://www.dwmatters.com) and my new [portfolio](https://www.seandonnelly.co.uk) <a href="http://www.seandonnelly.co.uk/" target="_blank">Hello, world!</a>
+
 
 🌱 I’m currently learning React and Python.
 
