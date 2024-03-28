@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi, I'm Sean 👋
 
+Software Engineer with 5 years’ experience building B2C and B2B tech products for the charity sector as a non-technical startup founder. I led Product, UX, User Research, Sales, Marketing, Fundraising, Management and Compliance. Exceptionally adaptable and resilient. Proactive problem-solver that enjoys big challenges. Recently graduated from Le Wagon's intensive coding bootcamp where I built a comprehensive understanding of HTML, CSS, JavaScript and Ruby through project-based learning. This solidified my love of coding, and I am now excited to pursue a career in Software Engineering. Looking for a forward-thinking organisation that can benefit from my unique blend of product and technical expertise.
+
+## Technical Skills
+# Front End
+- HTML
+- CSS
+- Sass
+
+- 
 <!--
 **seandonnelly92/seandonnelly92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
