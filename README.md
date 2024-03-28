@@ -17,20 +17,16 @@ Recently graduated from Le Wagon's intensive coding bootcamp where I built a com
 ⚡ Fun fact: I hitchhiked from Sheffield to Sofia, Bulgaria, for charity. 
 
 ### Technical Skills
-#### Front End
-- HTML
-- CSS
-- Sass
-- JavaScript
-- VueJS
-- Stimulus
-- Bootstrap
+|Front End         |Back End        |
+|-------------------|-----------------|
+| - HTML            | - Ruby          |
+| - CSS             | - Ruby on Rails |
+| - Sass            | - SQL           |
+| - JavaScript      | - PostgreSQL    |
+| - VueJS           | - APIs                |
+| - Stimulus        |                 |
+| - Bootstrap       |                 |
 
-#### Back End
-- Ruby
-- Ruby on Rails
-- SQL
-- PostgreSQL
 
 
 
